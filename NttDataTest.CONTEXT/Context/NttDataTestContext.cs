@@ -20,7 +20,8 @@ namespace NttDataTest.CONTEXT.Context
         public virtual DbSet<Book> Books { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseSqlServer("Data Source=DESKTOP-KM5B0H7;Initial Catalog=LibraryDB;Integrated Security=True;TrustServerCertificate=true;");
+            => optionsBuilder.UseSqlServer("Data Source=PC-SEBAS;Initial Catalog=LibraryDB;Integrated Security=True; TrustServerCertificate=True")
+                    .EnableSensitiveDataLogging();
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

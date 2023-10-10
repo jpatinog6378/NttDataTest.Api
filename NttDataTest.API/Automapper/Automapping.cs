@@ -12,6 +12,10 @@ namespace NttDataTest.API.Automapper
             CreateMap<AuthorDTO, Author>().ReverseMap();
             CreateMap<AuthorRequest, Author>().ReverseMap();
             CreateMap<AuthorRequest, AuthorDTO>().ReverseMap();
+
+            CreateMap<BookDTO, Book>().ReverseMap();
+            CreateMap<BookRequest, Book>().ReverseMap();
+            CreateMap<BookRequest, BookDTO>().ReverseMap();
         }
     }
 }
