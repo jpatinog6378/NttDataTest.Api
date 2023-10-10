@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NttDataTest.MODELS.Entities
 {
-    public class Author
+    public partial class Author
     {
         public int Id { get; set; }
 

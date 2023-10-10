@@ -11,8 +11,8 @@ namespace NttDataTest.MODELS.DTOs
     {
         public int Id { get; set; }
 
-        public string Name { get; set; } = null!;
+        public string Name { get; set; }
 
-        public List <BookDTO>? Book { get; set; }
+        public List<BookDTO>? Book { get; set; }
     }
 }

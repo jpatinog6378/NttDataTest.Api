@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using NttDataTest.MODELS.DTOs;
 using NttDataTest.MODELS.Entities;
+using NttDataTest.MODELS.Requests;
 
 namespace NttDataTest.API.Automapper
 {
@@ -9,6 +10,8 @@ namespace NttDataTest.API.Automapper
         public Automapping() 
         {
             CreateMap<AuthorDTO, Author>().ReverseMap();
+            CreateMap<AuthorRequest, Author>().ReverseMap();
+            CreateMap<AuthorRequest, AuthorDTO>().ReverseMap();
         }
     }
 }

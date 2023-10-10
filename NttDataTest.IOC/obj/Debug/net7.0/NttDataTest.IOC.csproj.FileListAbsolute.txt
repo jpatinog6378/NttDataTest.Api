@@ -17,3 +17,22 @@ C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.IOC\
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.IOC\bin\Debug\net7.0\NttDataTest.MODELS.pdb
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.IOC\obj\Debug\net7.0\NttDataTest.IOC.csproj.AssemblyReference.cache
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.IOC\obj\Debug\net7.0\NttDataTest.IOC.csproj.CopyComplete
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\bin\Debug\net7.0\NttDataTest.IOC.deps.json
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\bin\Debug\net7.0\NttDataTest.IOC.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\bin\Debug\net7.0\NttDataTest.IOC.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\bin\Debug\net7.0\NttDataTest.CONTEXT.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\bin\Debug\net7.0\NttDataTest.CORE.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\bin\Debug\net7.0\NttDataTest.MODELS.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\bin\Debug\net7.0\NttDataTest.CORE.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\bin\Debug\net7.0\NttDataTest.CONTEXT.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\bin\Debug\net7.0\NttDataTest.MODELS.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\obj\Debug\net7.0\NttDataTest.IOC.csproj.AssemblyReference.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\obj\Debug\net7.0\NttDataTest.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\obj\Debug\net7.0\NttDataTest.IOC.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\obj\Debug\net7.0\NttDataTest.IOC.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\obj\Debug\net7.0\NttDataTest.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\obj\Debug\net7.0\NttDataTest.IOC.csproj.CopyComplete
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\obj\Debug\net7.0\NttDataTest.IOC.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\obj\Debug\net7.0\refint\NttDataTest.IOC.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\obj\Debug\net7.0\NttDataTest.IOC.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.IOC\obj\Debug\net7.0\ref\NttDataTest.IOC.dll

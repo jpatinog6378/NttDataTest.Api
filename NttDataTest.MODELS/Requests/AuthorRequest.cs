@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace NttDataTest.MODELS.Requests
 {
-    internal class AuthorRequest
+    public class AuthorRequest
     {
+        public int Id { get; set; }
+
+        public string Name { get; set; }
     }
 }

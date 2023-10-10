@@ -20,13 +20,13 @@ namespace NttDataTest.CONTEXT.Context
         public virtual DbSet<Book> Books { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseSqlServer("Data Source=PC-SEBAS;Initial Catalog=LibraryDB;Integrated Security=True;TrustServerCertificate=true;");
+            => optionsBuilder.UseSqlServer("Data Source=DESKTOP-KM5B0H7;Initial Catalog=LibraryDB;Integrated Security=True;TrustServerCertificate=true;");
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Author>(entity =>
             {
-                entity.HasKey(e => e.Id).HasName("PK__Author__3214EC27673281A3");
+                entity.HasKey(e => e.Id).HasName("PK__Author__3214EC275C74F23B");
 
                 entity.ToTable("Author");
 
@@ -36,7 +36,7 @@ namespace NttDataTest.CONTEXT.Context
 
             modelBuilder.Entity<Book>(entity =>
             {
-                entity.HasKey(e => e.Id).HasName("PK__Book__3214EC270F9296CB");
+                entity.HasKey(e => e.Id).HasName("PK__Book__3214EC27CE05DEA0");
 
                 entity.ToTable("Book");
 
@@ -48,7 +48,7 @@ namespace NttDataTest.CONTEXT.Context
                 entity.HasOne(d => d.IdNavigation).WithOne(p => p.Book)
                     .HasForeignKey<Book>(d => d.Id)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("AuthorId");
+                    .HasConstraintName("FK__Book__ID__3E52440B");
             });
 
             OnModelCreatingPartial(modelBuilder);

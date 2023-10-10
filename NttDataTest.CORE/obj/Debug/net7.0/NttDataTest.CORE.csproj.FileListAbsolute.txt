@@ -17,3 +17,22 @@ C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.CORE
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.CORE\bin\Debug\net7.0\NttDataTest.CONTEXT.pdb
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.CORE\bin\Debug\net7.0\NttDataTest.MODELS.pdb
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.CORE\obj\Debug\net7.0\NttDataTest.CORE.csproj.CopyComplete
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\bin\Debug\net7.0\NttDataTest.CORE.deps.json
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\bin\Debug\net7.0\NttDataTest.CORE.runtimeconfig.json
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\bin\Debug\net7.0\NttDataTest.CORE.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\bin\Debug\net7.0\NttDataTest.CORE.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\bin\Debug\net7.0\NttDataTest.CONTEXT.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\bin\Debug\net7.0\NttDataTest.MODELS.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\bin\Debug\net7.0\NttDataTest.CONTEXT.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\bin\Debug\net7.0\NttDataTest.MODELS.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\NttDataTest.CORE.csproj.AssemblyReference.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\NttDataTest.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\NttDataTest.CORE.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\NttDataTest.CORE.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\NttDataTest.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\NttDataTest.CORE.csproj.CopyComplete
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\NttDataTest.CORE.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\refint\NttDataTest.CORE.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\NttDataTest.CORE.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\NttDataTest.CORE.genruntimeconfig.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CORE\obj\Debug\net7.0\ref\NttDataTest.CORE.dll

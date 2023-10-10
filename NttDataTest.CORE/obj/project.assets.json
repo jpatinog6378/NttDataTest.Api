@@ -2958,19 +2958,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sebaz\\.nuget\\packages\\": {}
+    "C:\\Users\\Maicol\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sebaz\\OneDrive\\Escritorio\\Desarrollo Sebas\\NttDataTest\\NttDataTest.CORE\\NttDataTest.CORE.csproj",
+      "projectUniqueName": "C:\\Users\\Maicol\\Desktop\\prueba\\NttDataTest.Api\\NttDataTest.CORE\\NttDataTest.CORE.csproj",
       "projectName": "NttDataTest.CORE",
-      "projectPath": "C:\\Users\\sebaz\\OneDrive\\Escritorio\\Desarrollo Sebas\\NttDataTest\\NttDataTest.CORE\\NttDataTest.CORE.csproj",
-      "packagesPath": "C:\\Users\\sebaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sebaz\\OneDrive\\Escritorio\\Desarrollo Sebas\\NttDataTest\\NttDataTest.CORE\\obj\\",
+      "projectPath": "C:\\Users\\Maicol\\Desktop\\prueba\\NttDataTest.Api\\NttDataTest.CORE\\NttDataTest.CORE.csproj",
+      "packagesPath": "C:\\Users\\Maicol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maicol\\Desktop\\prueba\\NttDataTest.Api\\NttDataTest.CORE\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\sebaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2978,17 +2983,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\sebaz\\OneDrive\\Escritorio\\Desarrollo Sebas\\NttDataTest\\NttDataTest.CONTEXT\\NttDataTest.CONTEXT.csproj": {
-              "projectPath": "C:\\Users\\sebaz\\OneDrive\\Escritorio\\Desarrollo Sebas\\NttDataTest\\NttDataTest.CONTEXT\\NttDataTest.CONTEXT.csproj"
+            "C:\\Users\\Maicol\\Desktop\\prueba\\NttDataTest.Api\\NttDataTest.CONTEXT\\NttDataTest.CONTEXT.csproj": {
+              "projectPath": "C:\\Users\\Maicol\\Desktop\\prueba\\NttDataTest.Api\\NttDataTest.CONTEXT\\NttDataTest.CONTEXT.csproj"
             },
-            "C:\\Users\\sebaz\\OneDrive\\Escritorio\\Desarrollo Sebas\\NttDataTest\\NttDataTest.MODELS\\NttDataTest.MODELS.csproj": {
-              "projectPath": "C:\\Users\\sebaz\\OneDrive\\Escritorio\\Desarrollo Sebas\\NttDataTest\\NttDataTest.MODELS\\NttDataTest.MODELS.csproj"
+            "C:\\Users\\Maicol\\Desktop\\prueba\\NttDataTest.Api\\NttDataTest.MODELS\\NttDataTest.MODELS.csproj": {
+              "projectPath": "C:\\Users\\Maicol\\Desktop\\prueba\\NttDataTest.Api\\NttDataTest.MODELS\\NttDataTest.MODELS.csproj"
             }
           }
         }
@@ -3048,7 +3054,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

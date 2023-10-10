@@ -9,3 +9,15 @@ C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.MODE
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.MODELS\obj\Debug\net7.0\refint\NttDataTest.MODELS.dll
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.MODELS\obj\Debug\net7.0\NttDataTest.MODELS.pdb
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.MODELS\obj\Debug\net7.0\ref\NttDataTest.MODELS.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\bin\Debug\net7.0\NttDataTest.MODELS.deps.json
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\bin\Debug\net7.0\NttDataTest.MODELS.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\bin\Debug\net7.0\NttDataTest.MODELS.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\obj\Debug\net7.0\NttDataTest.MODELS.csproj.AssemblyReference.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\obj\Debug\net7.0\NttDataTest.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\obj\Debug\net7.0\NttDataTest.MODELS.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\obj\Debug\net7.0\NttDataTest.MODELS.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\obj\Debug\net7.0\NttDataTest.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\obj\Debug\net7.0\NttDataTest.MODELS.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\obj\Debug\net7.0\refint\NttDataTest.MODELS.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\obj\Debug\net7.0\NttDataTest.MODELS.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.MODELS\obj\Debug\net7.0\ref\NttDataTest.MODELS.dll

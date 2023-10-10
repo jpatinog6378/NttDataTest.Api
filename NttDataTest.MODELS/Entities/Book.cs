@@ -12,6 +12,8 @@ namespace NttDataTest.MODELS.Entities
 
         public string Title { get; set; } = null!;
 
+        public int AuthorId { get; set; }
+
         public virtual Author IdNavigation { get; set; } = null!;
     }
 }

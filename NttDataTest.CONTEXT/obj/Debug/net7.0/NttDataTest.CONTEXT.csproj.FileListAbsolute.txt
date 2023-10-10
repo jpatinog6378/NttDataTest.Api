@@ -15,3 +15,20 @@ C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.CONT
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.CONTEXT\bin\Debug\net7.0\NttDataTest.MODELS.dll
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.CONTEXT\bin\Debug\net7.0\NttDataTest.MODELS.pdb
 C:\Users\sebaz\OneDrive\Escritorio\Desarrollo Sebas\NttDataTest\NttDataTest.CONTEXT\obj\Debug\net7.0\NttDataTest.CONTEXT.csproj.CopyComplete
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\bin\Debug\net7.0\NttDataTest.CONTEXT.deps.json
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\bin\Debug\net7.0\NttDataTest.CONTEXT.runtimeconfig.json
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\bin\Debug\net7.0\NttDataTest.CONTEXT.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\bin\Debug\net7.0\NttDataTest.CONTEXT.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\bin\Debug\net7.0\NttDataTest.MODELS.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\bin\Debug\net7.0\NttDataTest.MODELS.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\NttDataTest.CONTEXT.csproj.AssemblyReference.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\NttDataTest.CONTEXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\NttDataTest.CONTEXT.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\NttDataTest.CONTEXT.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\NttDataTest.CONTEXT.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\NttDataTest.CONTEXT.csproj.CopyComplete
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\NttDataTest.CONTEXT.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\refint\NttDataTest.CONTEXT.dll
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\NttDataTest.CONTEXT.pdb
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\NttDataTest.CONTEXT.genruntimeconfig.cache
+C:\Users\Maicol\Desktop\prueba\NttDataTest.Api\NttDataTest.CONTEXT\obj\Debug\net7.0\ref\NttDataTest.CONTEXT.dll
