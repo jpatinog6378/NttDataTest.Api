@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qd5DdijcpHGhDHpvG4YiHZoGMOOqaKIevKL83ucsvLk=",
+  "Source": "NttDataTest.API",
+  "BasePath": "_content/NttDataTest.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
